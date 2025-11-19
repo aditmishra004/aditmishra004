@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adit Mishra</h1>
-<h3 align="center">I am a passionate Software Engineer who understands Data and knows how to build Intelligent Systems.</h3>
+<h3 align="center">I am a Software Developer who understands Data and knows how to build Intelligent Systems.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditmishra004" alt="aditmishra004" /></a> </p>
 
