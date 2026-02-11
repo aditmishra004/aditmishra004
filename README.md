@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditmishra004" alt="aditmishra004" /></a> </p>
 
-- 🔭 I’m currently working on [GAMEHUB - a full-stack web platform with various gaming facility and dynamic competitive leaderboard.](https://github.com/aditmishra004/gamehub)
+- 🔭 I’m currently working on [MEDICAL IMAGE CLASSIFIER](https://github.com/aditmishra004/medical-image-classifier-pneumonia-)
 
 - 🌱 I’m currently learning **Agentic AI, LLM Frameworks - LangChain,MLOps**
 
